@@ -2,6 +2,13 @@
 ## 1. Goal
 The goal of this project is to build a machine learning model using Keras for predicting the presence of tuberculosis (TB) from chest X-ray images. Additionally, the project provides model explainability using LIME (Local Interpretable Model-agnostic Explanations) and Grad-CAM (Gradient-weighted Class Activation Mapping) to visualize which regions of the X-ray images influenced the model’s predictions. This combination ensures that the model not only makes accurate predictions but also provides interpretable explanations for its decisions.
 
+## Installation
+Clone the repository using git:
+```bash
+git clone https://github.com/Prajwal2212/Win-Prediction-ML.git
+cd Win-Prediction-ML
+```
+
 ## 2. Process
 ### 2.1. Tools and Libraries
 #### Python: Programming language used for model development.
