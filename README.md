@@ -5,8 +5,8 @@ The goal of this project is to build a machine learning model using Keras for pr
 ## Installation
 Clone the repository using git:
 ```bash
-git clone https://github.com/Prajwal2212/Win-Prediction-ML.git
-cd Win-Prediction-ML
+git clone https://github.com/Prajwal2212/Tuberculosis-Detection-Model.git
+cd Tuberculosis-Detection-Model
 ```
 
 ## 2. Process
